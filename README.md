@@ -52,7 +52,20 @@ I am a **Computer Science Engineering student at JNTU Hyderabad** with a passion
 
 ---
 
+###💡 Contributions
+1. I have helped in AgriTech Ai web app to integrate chatbot and ecommerce website
+https://agro-tech-ai.vercel.app/https://agro-tech-ai.vercel.app/
+2. Integrated AI Quotes Generator in Random Quotes Generator using Gemini Api
+3. Setted Authentication in nextjs video call app using Clerk
+https://soumojit-nextjs-videocall-webapp.vercel.app/sign-in?redirect_url=https%3A%2F%2Fsoumojit-nextjs-videocall-webapp.vercel.app%2F
+4. Setted Header navigation and authentication with clerk and best score functionality using local storage.
+https://skillwise.netlify.app/
+
+
 ### 🔗 Connect with Me
 
 - LinkedIn: [linkedin.com/in/prav](https://www.linkedin.com/in/prav)
 - GitHub: [github.com/prav](https://github.com/SunkaraboinaPraveenKumar)
+
+
+
