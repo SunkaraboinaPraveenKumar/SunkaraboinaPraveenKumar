@@ -54,7 +54,7 @@ https://soumojit-nextjs-videocall-webapp.vercel.app/sign-in?redirect_url=https%3
 https://skillwise.netlify.app/
 
 Hacktober fest:
-![image](https://github.com/user-attachments/assets/02d70a6a-5c4c-4191-a039-3015a73a1406)
+![hacktober](https://github.com/user-attachments/assets/6a54305b-50d0-45b9-bfa3-d329fed11bf1)
 https://www.holopin.io/hacktoberfest2024/userbadge/cm2a4j8as294110cl9gof64yxf
 
 
