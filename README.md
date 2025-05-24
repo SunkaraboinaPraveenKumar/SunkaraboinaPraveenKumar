@@ -53,8 +53,10 @@ https://soumojit-nextjs-videocall-webapp.vercel.app/sign-in?redirect_url=https%3
 4. Setted Header navigation and authentication with clerk and best score functionality using local storage.
 https://skillwise.netlify.app/
 
-Hacktober fest:
+
 ![hacktober](https://github.com/user-attachments/assets/6a54305b-50d0-45b9-bfa3-d329fed11bf1)
+
+
 https://www.holopin.io/hacktoberfest2024/userbadge/cm2a4j8as294110cl9gof64yxf
 
 
