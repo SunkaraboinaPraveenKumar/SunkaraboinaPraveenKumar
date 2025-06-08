@@ -28,7 +28,7 @@ I am a **Computer Science Engineering student at JNTU Hyderabad** with a passion
    - [Live Demo](https://ml-projects-six.vercel.app/) | [Repository](https://github.com/SunkaraboinaPraveenKumar/Machine_Learning_Projects)
 
 2. **Portfolio**: My personal portfolio showcasing my skills and projects.
-   - [Live Demo](https://praveen-portfolio-sigma.vercel.app/) | [Repository](https://github.com/SunkaraboinaPraveenKumar/Praveen_Portfolio)
+   - [Live Demo](https://next-js-portfolio-prav.vercel.app/) | [Repository](https://github.com/SunkaraboinaPraveenKumar/Praveen_Portfolio)
 
 ---
 
