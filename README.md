@@ -54,13 +54,8 @@ https://soumojit-nextjs-videocall-webapp.vercel.app/sign-in?redirect_url=https%3
 https://skillwise.netlify.app/
 
 
-![hacktober](https://github.com/user-attachments/assets/e85a8674-3f32-4599-bb7f-1b72bc94d9fd)
 
-![image](https://github.com/user-attachments/assets/dd6cec05-0a6d-4646-a361-85f7fc55e401)
-
-![image](https://github.com/user-attachments/assets/f6e3234f-2306-4b07-9149-0ceaba2543cc)
-
-![image](https://github.com/user-attachments/assets/ff9bd4f6-6718-4ff9-b188-1c1f8f3549ce)
+![image](https://github.com/user-attachments/assets/ab8ccca8-3fe3-48fb-9c78-5434b1766d01)
 
 
 https://www.holopin.io/@sunkaraboinapraveen
