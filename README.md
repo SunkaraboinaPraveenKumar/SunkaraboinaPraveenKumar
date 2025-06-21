@@ -55,7 +55,8 @@ https://skillwise.netlify.app/
 
 
 
-![image](https://github.com/user-attachments/assets/ab8ccca8-3fe3-48fb-9c78-5434b1766d01)
+![image](https://github.com/user-attachments/assets/dab0d9ec-2244-4d86-b294-b1526ec0afa9)
+
 
 
 https://www.holopin.io/@sunkaraboinapraveen
