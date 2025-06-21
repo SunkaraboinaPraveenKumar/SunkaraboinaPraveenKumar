@@ -56,6 +56,11 @@ https://skillwise.netlify.app/
 
 ![hacktober](https://github.com/user-attachments/assets/e85a8674-3f32-4599-bb7f-1b72bc94d9fd)
 
+![image](https://github.com/user-attachments/assets/dd6cec05-0a6d-4646-a361-85f7fc55e401)
+
+![image](https://github.com/user-attachments/assets/f6e3234f-2306-4b07-9149-0ceaba2543cc)
+
+https://assets.holopin.io/hf2024levels/level3-sloth-code-0-0-0-0.webp
 
 
 https://www.holopin.io/hacktoberfest2024/userbadge/cm2a4j8as294110cl9gof64yxf
